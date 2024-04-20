@@ -17,3 +17,9 @@ int main() {
     
     return 0;
 }
+int addfucn( int a, int b )
+{	
+	int c = a+b;
+	return c;
+}
+// added same function in mian branch
